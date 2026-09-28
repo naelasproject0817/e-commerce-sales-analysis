@@ -1,4 +1,4 @@
-# Laporan Analisis Data E-Commerce
+# Analisis Data E-Commerce
 
 Laporan ini menyajikan hasil analisis data transaksi *e-commerce* berdasarkan eksplorasi data awal (EDA), pembersihan & pengayaan data, serta analisis mendalam untuk menjawab lima pertanyaan bisnis utama.
 
